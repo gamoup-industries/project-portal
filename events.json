@@ -1,1 +1,7 @@
-{"name": "Jord"}
+{
+  "darkportal001": {
+    "sign001": [
+      ["dialogue", "- The Dark Portal -", true, 0, 1, 1],
+    ]
+  }
+}
